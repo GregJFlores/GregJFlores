@@ -14,9 +14,6 @@
 const developer = {
     name: "Gregory Flores",
     location: "Texas",
-    languages: ["JavaScript", "Python", "TypeScript", "C"],
-    frameworks: ["React", "Next.js", "Node.js", "FastAPI"],
-    databases: ["PostgreSQL", "Redis"],
 };
 ```
 
