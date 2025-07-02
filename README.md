@@ -51,14 +51,6 @@ const developer = {
 
 </div>
 
-## 🎨 Featured Projects
-
-<div align="center">
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=GregJFlores&repo=Portfolio&theme=tokyonight)](https://github.com/GregJFlores/Portfolio)
-
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
