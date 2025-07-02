@@ -48,6 +48,11 @@ const developer = {
 
 </div>
 
+📰 Daily.dev Card
+<div align="center">
+<a href="https://app.daily.dev/gregjflores"><img src="https://api.daily.dev/devcards/v2/JBd73nH4rCq4ICKHILL3H.png?r=m3r&type=default" width="356" alt="Greg's Dev Card"/></a>
+</div>
+
 ## 📈 Contribution Graph
 
 <div align="center">
