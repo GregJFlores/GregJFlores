@@ -57,7 +57,7 @@ const developer = {
 
 📰 Daily.dev Card
 <div align="center">
-<a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="Greg's Dev Card"/></a>
+<a href="https://app.daily.dev/gregjflores"><img src="./devcard.png" width="356" alt="Greg's Dev Card"/></a>
 </div>
 
 ## 📈 Contribution Graph
