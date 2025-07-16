@@ -6,6 +6,12 @@
 
 </div>
 
+<div align="center">
+  
+[![daily-devcard](https://github.com/GregJFlores/GregJFlores/actions/workflows/daily-devcard.yml/badge.svg)](https://github.com/GregJFlores/GregJFlores/actions/workflows/daily-devcard.yml)
+[![Dependabot Updates](https://github.com/GregJFlores/GregJFlores/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/GregJFlores/GregJFlores/actions/workflows/dependabot/dependabot-updates)
+
+</div>
 ---
 
 ## 🎯 About Me
